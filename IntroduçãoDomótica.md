@@ -7,3 +7,8 @@ Entretanto, apesar da comodidade e economia serem partes importantes da domótic
 
 Destarte, apesar de ser um conceito recente, é fácil entender o valor que a domótica oferece, desde de as atividades mais simples como acender e apagar as luzes, até atividades onde maior atenção é requerida como o controle dos gastos da casa e a limpeza da mesma podem ser automatizados para maior conforto dos usuários.<br />                 
 
+
+Referências
+https://www.infoescola.com/tecnologia/domotica/
+http://www.sislite.pt/domus.htm#:~:text=Dom%C3%B3tica%20%C3%A9%20uma%20tecnologia%20recente,realizar%20a%C3%A7%C3%B5es%20de%20forma%20autom%C3%A1tica.
+https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/
