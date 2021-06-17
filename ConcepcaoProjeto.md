@@ -1,5 +1,5 @@
-##Concepção do Projeto
-Objetivo:
+#Concepção do Projeto
+##Objetivo:<br >
 Montar a planta de uma casa com cômodos onde sejam utilizados os seguinte sensores
 Controlar a iluminação dos cômodos.
 Controlar os LEDs de forma remota (com o pc).
