@@ -1,8 +1,8 @@
-#Concepção do Projeto
-##Objetivo:<br >
-Montar a planta de uma casa com cômodos onde sejam utilizados os seguinte sensores
-Controlar a iluminação dos cômodos.
-Controlar os LEDs de forma remota (com o pc).
-Sensor de presença para o jardim.
-Sensor de gás.
-Servomotor para o portão eletrônico
+# Concepção do Projeto<br >
+&emsp;Montar a planta de uma casa com cômodos onde sejam utilizados os seguinte sensores:<br >
+-Controlar a iluminação dos cômodos;<br >
+-Controlar os LEDs de forma remota;(com o pc).<br >
+-Sensor de presença para o jardim;<br >
+-Sensor de gás;<br >
+-Servomotor para o portão eletrônico;<br >
+![img](https://imgur.com/a/kchQTTW)
