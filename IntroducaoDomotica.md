@@ -3,7 +3,7 @@ A automação em edifícios e empresas já é comum há algum tempo, e é possí
 
 Este conceito de automação vem no seguimento de encontrar maneiras do ser humano ser capaz de realizar o mínimo esforço nas atividades diárias e rotineiras afim de introduzir um maior conforto e melhoria na vida dos seus usuários. Além de, não somente aumentar o conforto do usuário, essa automação também permitiria um controle remoto da residência, sendo capaz de auxiliar na economia de energia, dinheiro.<br />
 
-Entretanto, apesar da comodidade e economia serem partes importantes da domótica, a segurança é o principal pilar, partindo do presuposto que os moradores estão cada vez mais preocupados com seus bens materiais e entes queridos.<br >Alguns exemplos do uso da domótica podem ser para:
+Entretanto, apesar da comodidade e economia serem partes importantes da domótica, a segurança é o principal pilar, partindo do presuposto que os moradores estão cada vez mais preocupados com seus bens materiais e entes queridos.Alguns exemplos do uso da domótica podem ser para:<br >
 * Controlar luzes e temperatura do ambiente remotamente,
 * Acompanhar em tempo real alarmes e sensores mesmo não estando no mesmo ambiente ou até mesmo perto da casa onde esses sensores estão instalados,
 * Controlar janelas com persianas elétricas,
