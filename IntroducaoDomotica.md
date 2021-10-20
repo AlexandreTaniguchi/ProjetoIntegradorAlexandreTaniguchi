@@ -6,12 +6,11 @@ Este conceito de automação vem no seguimento de encontrar maneiras do ser huma
 Entretanto, apesar da comodidade e economia serem partes importantes da domótica, a segurança é o principal pilar, partindo do presuposto que os moradores estão cada vez mais preocupados com seus bens materiais e entes queridos.Alguns exemplos do uso da domótica podem ser para:<br >
 * Controlar luzes e temperatura do ambiente remotamente,
 * Acompanhar em tempo real alarmes e sensores mesmo não estando no mesmo ambiente ou até mesmo perto da casa onde esses sensores estão instalados,
-* Controlar janelas com persianas elétricas,
 * Interagir e programar sistemas ligados a lazer como sistema audiovisual,
-* Administrar os consumos de energias reduzindo assim possíveis gastos extras,
-* Usar comando de voz para certos eletrônicos.
+* Administrar os consumos de energia e água reduzindo assim possíveis gastos extras,
+* Usar comando de voz para operar equipamentos eletrônicos.
 
-Destarte, apesar de ser um conceito recente, é fácil entender o valor que a domótica oferece, desde de as atividades mais simples como acender e apagar as luzes, até atividades onde maior atenção é requerida como o controle dos gastos da casa e a limpeza da mesma podem ser automatizados para maior conforto dos usuários.<br />                 
+Destarte, apesar de ser um conceito recente, é fácil entender o valor que a domótica oferece, desde de as atividades mais simples como acender e apagar as luzes, até atividades onde maior atenção é requerida como o controle dos gastos da casa e a limpeza da mesma podem ser automatizados para maior conforto dos usuários. Entretanto o custo de tal implementação no momento está além do orçamento da maioria das pessoas atualmente, e apesar da tendência de com o passar do tempo essa tecnologia se tornará mais acessível, no momento a domótica é algo para ser manter em mente para uso em um futuro próximo. <br />                 
 
 
 Referências
