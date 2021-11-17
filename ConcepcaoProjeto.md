@@ -23,10 +23,8 @@
 -Sensor ultrasônico HC-SR04 <br >
 -Buzzer passivo <br >
   * Sistema para auxiliar na hora de estacionar o carro
-  * 
 -Módulo Matriz de LED 8×8 com MAX7219 <br >
   * Leds para serem utilizados em conjunto dos outros sistemas
-
  -Display LCD 16×2 I2C Backlight Azul<br >
    * Sistema Geral, mostrando funções do sistema e sendo possível mudar as suas configurações, ou desligá-las completamenta
    
