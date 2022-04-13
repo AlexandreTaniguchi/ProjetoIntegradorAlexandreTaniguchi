@@ -11,6 +11,8 @@ Este conceito de domótica surgiu nos anos 80 na França, ele possui como objeti
 * Usar comando de voz para operar equipamentos eletrônicos;
 * Ser avisado pela própria residência caso algo esteja faltando( comida, produtos de limpeza, etc);
 * Fechaduras inteligentes que você pode abrir ou trancar a partir de um aplicativo. <br >
+
+
 Apesar de todos os pontos positivos mencionados acima é importante mencionar os pontos negativos da domótica, custo e nível de acessibilidade. Após olhar pacotes de automatização residencial oferecidos eles costumam estar entre R$ 2.000,00 - R$ 3.000,00 por quarto, mas dependendo do nível de automatização desejada esses pacotes podem ultrapassar os R$ 10.000,00. Nível de acessibilidade seria algo relacionado ao cybercrimes, pois em uma residência inteligente caso alguem consiga burlar o sistema de segurança essa pessoa vai ter controle de diversos eletrônicos em sua residência apresentando risco a você e sua família.
 
 Destarte, apesar de ser um conceito recente, é fácil entender o valor que a domótica oferece, desde de as atividades mais simples como acender e apagar as luzes, até atividades onde maior atenção é requerida como o controle dos gastos da casa e a limpeza da mesma podem ser automatizados para maior conforto dos usuários. Entretanto o custo de tal implementação no momento está além do orçamento da maioria das pessoas atualmente, e apesar da tendência de com o passar do tempo essa tecnologia se tornará mais acessível, no momento a domótica é algo para ser manter em mente para uso em um futuro próximo. <br />                 
